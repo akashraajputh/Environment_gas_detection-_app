@@ -87,7 +87,7 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 
 ## 👨‍💻 Developed By
 
-**Akash Kumar**  
+**Akash Kumar Singh**  
 Java Developer | IoT Enthusiast | Full Stack Engineer  
 📧 kmrakash350@gmail.com  
 📱 +91-9508849717  
